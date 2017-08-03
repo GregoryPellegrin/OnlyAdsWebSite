@@ -1,0 +1,1 @@
+(adsbygoogle=window.adsbygoogle||[]).push({google_ad_client:"ca-pub-1661692051456452",enable_page_level_ads:!0});
